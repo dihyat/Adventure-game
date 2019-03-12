@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=fourthFrame
+comment1.params=iswarrior\ i
+comment1.target=fourthFrame(boolean,\ java.util.ArrayList)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=a
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=a
+comment4.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment5.params=
+comment5.target=void\ update()
+comment6.params=a
+comment6.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment7.params=a
+comment7.target=void\ keyTyped(java.awt.event.KeyEvent)
+numComments=8

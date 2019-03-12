@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=thirdFrame
+comment1.params=w\ h
+comment1.target=thirdFrame(warriors,\ java.util.ArrayList)
+comment2.params=m\ x
+comment2.target=thirdFrame(magicians,\ java.util.ArrayList)
+comment3.params=a
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

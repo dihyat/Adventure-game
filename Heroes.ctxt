@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Heroes
+comment1.params=
+comment1.target=void\ setSpecialPower()
+comment2.params=
+comment2.target=void\ increaseAttack()
+comment3.params=v
+comment3.target=void\ decreaseHealth(Villains)
+comment4.params=
+comment4.target=void\ increaseHealth()
+comment5.params=
+comment5.target=void\ increasespecialPower()
+numComments=6

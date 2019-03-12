@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=i\ m\ iswarrior
+comment1.target=void\ save(java.util.ArrayList,\ magicians,\ boolean)
+comment2.params=l\ w\ iswarrior
+comment2.target=void\ save(java.util.ArrayList,\ warriors,\ boolean)
+comment3.params=k
+comment3.target=void\ load(java.util.ArrayList)
+numComments=4

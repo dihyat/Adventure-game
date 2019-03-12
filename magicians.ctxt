@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=magicians
+comment0.text=\n\ Write\ a\ description\ of\ class\ magicians\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=magicians()
+comment2.params=
+comment2.target=void\ increaseAttack()
+comment3.params=
+comment3.target=void\ increaseHealth()
+numComments=4
